@@ -1,0 +1,21 @@
+C:\Users\Alumnos\source\repos\Practica2real\Practica2real\obj\Debug\Practica2real.csproj.AssemblyReference.cache
+C:\Users\Alumnos\source\repos\Practica2real\Practica2real\obj\Debug\Practica2real.Form1.resources
+C:\Users\Alumnos\source\repos\Practica2real\Practica2real\obj\Debug\Practica2real.Properties.Resources.resources
+C:\Users\Alumnos\source\repos\Practica2real\Practica2real\obj\Debug\Practica2real.csproj.GenerateResource.cache
+C:\Users\Alumnos\source\repos\Practica2real\Practica2real\obj\Debug\Practica2real.csproj.CoreCompileInputs.cache
+C:\Users\Alumnos\source\repos\Practica2real\Practica2real\bin\Debug\Practica2real.exe.config
+C:\Users\Alumnos\source\repos\Practica2real\Practica2real\bin\Debug\Practica2real.exe
+C:\Users\Alumnos\source\repos\Practica2real\Practica2real\bin\Debug\Practica2real.pdb
+C:\Users\Alumnos\source\repos\Practica2real\Practica2real\obj\Debug\Practica2real.exe
+C:\Users\Alumnos\source\repos\Practica2real\Practica2real\obj\Debug\Practica2real.pdb
+C:\Users\alexc\Desktop\practicas viual studio\Practica2real\Practica2real\bin\Debug\Practica2real.exe.config
+C:\Users\alexc\Desktop\practicas viual studio\Practica2real\Practica2real\bin\Debug\Practica2real.exe
+C:\Users\alexc\Desktop\practicas viual studio\Practica2real\Practica2real\bin\Debug\Practica2real.pdb
+C:\Users\alexc\Desktop\practicas viual studio\Practica2real\Practica2real\obj\Debug\Practica2real.csproj.AssemblyReference.cache
+C:\Users\alexc\Desktop\practicas viual studio\Practica2real\Practica2real\obj\Debug\Practica2real.exe.config
+C:\Users\alexc\Desktop\practicas viual studio\Practica2real\Practica2real\obj\Debug\Practica2real.Form1.resources
+C:\Users\alexc\Desktop\practicas viual studio\Practica2real\Practica2real\obj\Debug\Practica2real.Properties.Resources.resources
+C:\Users\alexc\Desktop\practicas viual studio\Practica2real\Practica2real\obj\Debug\Practica2real.csproj.GenerateResource.cache
+C:\Users\alexc\Desktop\practicas viual studio\Practica2real\Practica2real\obj\Debug\Practica2real.csproj.CoreCompileInputs.cache
+C:\Users\alexc\Desktop\practicas viual studio\Practica2real\Practica2real\obj\Debug\Practica2real.exe
+C:\Users\alexc\Desktop\practicas viual studio\Practica2real\Practica2real\obj\Debug\Practica2real.pdb

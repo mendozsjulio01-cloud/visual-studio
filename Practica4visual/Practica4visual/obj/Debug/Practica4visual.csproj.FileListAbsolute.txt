@@ -1,0 +1,21 @@
+C:\Users\Alumnos\source\repos\Practica4visual\Practica4visual\bin\Debug\Practica4visual.exe.config
+C:\Users\Alumnos\source\repos\Practica4visual\Practica4visual\bin\Debug\Practica4visual.exe
+C:\Users\Alumnos\source\repos\Practica4visual\Practica4visual\bin\Debug\Practica4visual.pdb
+C:\Users\Alumnos\source\repos\Practica4visual\Practica4visual\obj\Debug\Practica4visual.csproj.AssemblyReference.cache
+C:\Users\Alumnos\source\repos\Practica4visual\Practica4visual\obj\Debug\Practica4visual.Form1.resources
+C:\Users\Alumnos\source\repos\Practica4visual\Practica4visual\obj\Debug\Practica4visual.Properties.Resources.resources
+C:\Users\Alumnos\source\repos\Practica4visual\Practica4visual\obj\Debug\Practica4visual.csproj.GenerateResource.cache
+C:\Users\Alumnos\source\repos\Practica4visual\Practica4visual\obj\Debug\Practica4visual.csproj.CoreCompileInputs.cache
+C:\Users\Alumnos\source\repos\Practica4visual\Practica4visual\obj\Debug\Practica4visual.exe
+C:\Users\Alumnos\source\repos\Practica4visual\Practica4visual\obj\Debug\Practica4visual.pdb
+C:\Users\alexc\Desktop\practicas viual studio\Practica4visual\Practica4visual\bin\Debug\Practica4visual.exe.config
+C:\Users\alexc\Desktop\practicas viual studio\Practica4visual\Practica4visual\bin\Debug\Practica4visual.exe
+C:\Users\alexc\Desktop\practicas viual studio\Practica4visual\Practica4visual\bin\Debug\Practica4visual.pdb
+C:\Users\alexc\Desktop\practicas viual studio\Practica4visual\Practica4visual\obj\Debug\Practica4visual.csproj.AssemblyReference.cache
+C:\Users\alexc\Desktop\practicas viual studio\Practica4visual\Practica4visual\obj\Debug\Practica4visual.exe.config
+C:\Users\alexc\Desktop\practicas viual studio\Practica4visual\Practica4visual\obj\Debug\Practica4visual.Form1.resources
+C:\Users\alexc\Desktop\practicas viual studio\Practica4visual\Practica4visual\obj\Debug\Practica4visual.Properties.Resources.resources
+C:\Users\alexc\Desktop\practicas viual studio\Practica4visual\Practica4visual\obj\Debug\Practica4visual.csproj.GenerateResource.cache
+C:\Users\alexc\Desktop\practicas viual studio\Practica4visual\Practica4visual\obj\Debug\Practica4visual.csproj.CoreCompileInputs.cache
+C:\Users\alexc\Desktop\practicas viual studio\Practica4visual\Practica4visual\obj\Debug\Practica4visual.exe
+C:\Users\alexc\Desktop\practicas viual studio\Practica4visual\Practica4visual\obj\Debug\Practica4visual.pdb
