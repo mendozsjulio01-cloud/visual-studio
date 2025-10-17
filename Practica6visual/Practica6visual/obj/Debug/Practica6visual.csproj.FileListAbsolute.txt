@@ -1,0 +1,21 @@
+C:\Users\Alumnos\source\repos\Practica6visual\Practica6visual\bin\Debug\Practica6visual.exe.config
+C:\Users\Alumnos\source\repos\Practica6visual\Practica6visual\bin\Debug\Practica6visual.exe
+C:\Users\Alumnos\source\repos\Practica6visual\Practica6visual\bin\Debug\Practica6visual.pdb
+C:\Users\Alumnos\source\repos\Practica6visual\Practica6visual\obj\Debug\Practica6visual.csproj.AssemblyReference.cache
+C:\Users\Alumnos\source\repos\Practica6visual\Practica6visual\obj\Debug\Practica6visual.Form1.resources
+C:\Users\Alumnos\source\repos\Practica6visual\Practica6visual\obj\Debug\Practica6visual.Properties.Resources.resources
+C:\Users\Alumnos\source\repos\Practica6visual\Practica6visual\obj\Debug\Practica6visual.csproj.GenerateResource.cache
+C:\Users\Alumnos\source\repos\Practica6visual\Practica6visual\obj\Debug\Practica6visual.csproj.CoreCompileInputs.cache
+C:\Users\Alumnos\source\repos\Practica6visual\Practica6visual\obj\Debug\Practica6visual.exe
+C:\Users\Alumnos\source\repos\Practica6visual\Practica6visual\obj\Debug\Practica6visual.pdb
+C:\Users\alexc\Desktop\practicas viual studio\Practica6visual\Practica6visual\bin\Debug\Practica6visual.exe.config
+C:\Users\alexc\Desktop\practicas viual studio\Practica6visual\Practica6visual\bin\Debug\Practica6visual.exe
+C:\Users\alexc\Desktop\practicas viual studio\Practica6visual\Practica6visual\bin\Debug\Practica6visual.pdb
+C:\Users\alexc\Desktop\practicas viual studio\Practica6visual\Practica6visual\obj\Debug\Practica6visual.csproj.AssemblyReference.cache
+C:\Users\alexc\Desktop\practicas viual studio\Practica6visual\Practica6visual\obj\Debug\Practica6visual.exe.config
+C:\Users\alexc\Desktop\practicas viual studio\Practica6visual\Practica6visual\obj\Debug\Practica6visual.Form1.resources
+C:\Users\alexc\Desktop\practicas viual studio\Practica6visual\Practica6visual\obj\Debug\Practica6visual.Properties.Resources.resources
+C:\Users\alexc\Desktop\practicas viual studio\Practica6visual\Practica6visual\obj\Debug\Practica6visual.csproj.GenerateResource.cache
+C:\Users\alexc\Desktop\practicas viual studio\Practica6visual\Practica6visual\obj\Debug\Practica6visual.csproj.CoreCompileInputs.cache
+C:\Users\alexc\Desktop\practicas viual studio\Practica6visual\Practica6visual\obj\Debug\Practica6visual.exe
+C:\Users\alexc\Desktop\practicas viual studio\Practica6visual\Practica6visual\obj\Debug\Practica6visual.pdb

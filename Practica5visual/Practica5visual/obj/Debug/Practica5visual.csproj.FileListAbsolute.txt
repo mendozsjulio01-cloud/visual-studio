@@ -1,0 +1,21 @@
+C:\Users\Alumnos\source\repos\Practica5visual\Practica5visual\obj\Debug\Practica5visual.csproj.AssemblyReference.cache
+C:\Users\Alumnos\source\repos\Practica5visual\Practica5visual\obj\Debug\Practica5visual.Form1.resources
+C:\Users\Alumnos\source\repos\Practica5visual\Practica5visual\obj\Debug\Practica5visual.Properties.Resources.resources
+C:\Users\Alumnos\source\repos\Practica5visual\Practica5visual\obj\Debug\Practica5visual.csproj.GenerateResource.cache
+C:\Users\Alumnos\source\repos\Practica5visual\Practica5visual\obj\Debug\Practica5visual.csproj.CoreCompileInputs.cache
+C:\Users\Alumnos\source\repos\Practica5visual\Practica5visual\bin\Debug\Practica5visual.exe.config
+C:\Users\Alumnos\source\repos\Practica5visual\Practica5visual\bin\Debug\Practica5visual.exe
+C:\Users\Alumnos\source\repos\Practica5visual\Practica5visual\bin\Debug\Practica5visual.pdb
+C:\Users\Alumnos\source\repos\Practica5visual\Practica5visual\obj\Debug\Practica5visual.exe
+C:\Users\Alumnos\source\repos\Practica5visual\Practica5visual\obj\Debug\Practica5visual.pdb
+C:\Users\alexc\Desktop\practicas viual studio\Practica5visual\Practica5visual\bin\Debug\Practica5visual.exe.config
+C:\Users\alexc\Desktop\practicas viual studio\Practica5visual\Practica5visual\bin\Debug\Practica5visual.exe
+C:\Users\alexc\Desktop\practicas viual studio\Practica5visual\Practica5visual\bin\Debug\Practica5visual.pdb
+C:\Users\alexc\Desktop\practicas viual studio\Practica5visual\Practica5visual\obj\Debug\Practica5visual.csproj.AssemblyReference.cache
+C:\Users\alexc\Desktop\practicas viual studio\Practica5visual\Practica5visual\obj\Debug\Practica5visual.exe.config
+C:\Users\alexc\Desktop\practicas viual studio\Practica5visual\Practica5visual\obj\Debug\Practica5visual.Form1.resources
+C:\Users\alexc\Desktop\practicas viual studio\Practica5visual\Practica5visual\obj\Debug\Practica5visual.Properties.Resources.resources
+C:\Users\alexc\Desktop\practicas viual studio\Practica5visual\Practica5visual\obj\Debug\Practica5visual.csproj.GenerateResource.cache
+C:\Users\alexc\Desktop\practicas viual studio\Practica5visual\Practica5visual\obj\Debug\Practica5visual.csproj.CoreCompileInputs.cache
+C:\Users\alexc\Desktop\practicas viual studio\Practica5visual\Practica5visual\obj\Debug\Practica5visual.exe
+C:\Users\alexc\Desktop\practicas viual studio\Practica5visual\Practica5visual\obj\Debug\Practica5visual.pdb
