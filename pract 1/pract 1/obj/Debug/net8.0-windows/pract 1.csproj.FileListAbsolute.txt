@@ -1,0 +1,17 @@
+C:\Users\alexc\source\repos\pract 1\pract 1\bin\Debug\net8.0-windows\pract 1.exe
+C:\Users\alexc\source\repos\pract 1\pract 1\bin\Debug\net8.0-windows\pract 1.deps.json
+C:\Users\alexc\source\repos\pract 1\pract 1\bin\Debug\net8.0-windows\pract 1.runtimeconfig.json
+C:\Users\alexc\source\repos\pract 1\pract 1\bin\Debug\net8.0-windows\pract 1.dll
+C:\Users\alexc\source\repos\pract 1\pract 1\bin\Debug\net8.0-windows\pract 1.pdb
+C:\Users\alexc\source\repos\pract 1\pract 1\obj\Debug\net8.0-windows\pract_1.Form1.resources
+C:\Users\alexc\source\repos\pract 1\pract 1\obj\Debug\net8.0-windows\pract_1.Properties.Resources.resources
+C:\Users\alexc\source\repos\pract 1\pract 1\obj\Debug\net8.0-windows\pract 1.csproj.GenerateResource.cache
+C:\Users\alexc\source\repos\pract 1\pract 1\obj\Debug\net8.0-windows\pract 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexc\source\repos\pract 1\pract 1\obj\Debug\net8.0-windows\pract 1.AssemblyInfoInputs.cache
+C:\Users\alexc\source\repos\pract 1\pract 1\obj\Debug\net8.0-windows\pract 1.AssemblyInfo.cs
+C:\Users\alexc\source\repos\pract 1\pract 1\obj\Debug\net8.0-windows\pract 1.csproj.CoreCompileInputs.cache
+C:\Users\alexc\source\repos\pract 1\pract 1\obj\Debug\net8.0-windows\pract 1.dll
+C:\Users\alexc\source\repos\pract 1\pract 1\obj\Debug\net8.0-windows\refint\pract 1.dll
+C:\Users\alexc\source\repos\pract 1\pract 1\obj\Debug\net8.0-windows\pract 1.pdb
+C:\Users\alexc\source\repos\pract 1\pract 1\obj\Debug\net8.0-windows\pract 1.genruntimeconfig.cache
+C:\Users\alexc\source\repos\pract 1\pract 1\obj\Debug\net8.0-windows\ref\pract 1.dll
