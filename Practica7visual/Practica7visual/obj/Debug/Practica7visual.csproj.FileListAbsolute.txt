@@ -1,0 +1,21 @@
+C:\Users\Alumnos\source\repos\Practica7visual\Practica7visual\obj\Debug\Practica7visual.csproj.AssemblyReference.cache
+C:\Users\Alumnos\source\repos\Practica7visual\Practica7visual\obj\Debug\Practica7visual.Form1.resources
+C:\Users\Alumnos\source\repos\Practica7visual\Practica7visual\obj\Debug\Practica7visual.Properties.Resources.resources
+C:\Users\Alumnos\source\repos\Practica7visual\Practica7visual\obj\Debug\Practica7visual.csproj.GenerateResource.cache
+C:\Users\Alumnos\source\repos\Practica7visual\Practica7visual\obj\Debug\Practica7visual.csproj.CoreCompileInputs.cache
+C:\Users\Alumnos\source\repos\Practica7visual\Practica7visual\bin\Debug\Practica7visual.exe.config
+C:\Users\Alumnos\source\repos\Practica7visual\Practica7visual\bin\Debug\Practica7visual.exe
+C:\Users\Alumnos\source\repos\Practica7visual\Practica7visual\bin\Debug\Practica7visual.pdb
+C:\Users\Alumnos\source\repos\Practica7visual\Practica7visual\obj\Debug\Practica7visual.exe
+C:\Users\Alumnos\source\repos\Practica7visual\Practica7visual\obj\Debug\Practica7visual.pdb
+C:\Users\alexc\Desktop\practicas viual studio\Practica7visual\Practica7visual\bin\Debug\Practica 7.exe.config
+C:\Users\alexc\Desktop\practicas viual studio\Practica7visual\Practica7visual\bin\Debug\Practica 7.exe
+C:\Users\alexc\Desktop\practicas viual studio\Practica7visual\Practica7visual\bin\Debug\Practica 7.pdb
+C:\Users\alexc\Desktop\practicas viual studio\Practica7visual\Practica7visual\obj\Debug\Practica7visual.csproj.AssemblyReference.cache
+C:\Users\alexc\Desktop\practicas viual studio\Practica7visual\Practica7visual\obj\Debug\Practica7visual.Form1.resources
+C:\Users\alexc\Desktop\practicas viual studio\Practica7visual\Practica7visual\obj\Debug\Practica7visual.Properties.Resources.resources
+C:\Users\alexc\Desktop\practicas viual studio\Practica7visual\Practica7visual\obj\Debug\Practica7visual.csproj.GenerateResource.cache
+C:\Users\alexc\Desktop\practicas viual studio\Practica7visual\Practica7visual\obj\Debug\Practica7visual.csproj.CoreCompileInputs.cache
+C:\Users\alexc\Desktop\practicas viual studio\Practica7visual\Practica7visual\obj\Debug\Practica 7.exe
+C:\Users\alexc\Desktop\practicas viual studio\Practica7visual\Practica7visual\obj\Debug\Practica 7.pdb
+C:\Users\alexc\Desktop\practicas viual studio\Practica7visual\Practica7visual\obj\Debug\Practica 7.exe.config
